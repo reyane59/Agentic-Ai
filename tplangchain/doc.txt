@@ -1,0 +1,6 @@
+Résultat:
+Hello World
+
+
+Code Python:
+print("Hello World")
